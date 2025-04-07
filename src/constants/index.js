@@ -63,6 +63,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Raebareli, Uttar Pradesh, India",
-  phoneNo: "+91 96699 23758 ",
+  phoneNo: "+91 95699 23758 ",
   email: "n.narendraman58@gmail.com",
 };
